@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Полая инструкция для самообразования.md",
+            "file": "Daily/2021-10-26 куч.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Полая инструкция для самообразования.md",
+                "file": "Daily/2021-10-26 куч.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Полая инструкция для самообразования.md"
+                "file": "Daily/2021-10-26 куч.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
+    "Daily/2021-10-26 куч.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
-    "Base/00 JavaScript.md",
+    "Base/00 Zettelkasten.md",
     "Base/00 Productivity.md",
     "Base/00 UX.md",
-    "Base/00 Zettelkasten.md",
-    "Base/Moй Zettelkasten.md",
+    "Base/00 Self-education.md",
+    "Base/00 JavaScript.md",
     "Base/Untitled 1.md",
-    "Daily/2021-10-25.md",
-    "Files/Pasted image 20211025014025.png",
-    "Templates/0 New Note.md"
+    "Daily/2021-10-25.md"
   ]
 }
