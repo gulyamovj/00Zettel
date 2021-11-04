@@ -7,8 +7,11 @@
         "id": "04a6f2c3697b4134",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Templates/0 New Note.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1quest",
+                "query": "Git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/0 New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,26 +103,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Templates/0 New Note.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 701
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
-    "Daily/2021-10-26 куч.md",
-    "Base/00 JavaScript.md",
-    "Base/00 Productivity.md",
-    "Base/00 Self-education.md",
-    "Base/Moй Zettelkasten.md",
-    "Base/Полая инструкция для самообразования.md",
-    "Files/Pasted image 20211025014025.png",
     "Templates/0 New Note.md",
+    "Files/Pasted image 20211025014025.png",
+    "Base/Git.md",
+    "Base/00 JavaScript.md",
+    "Base/Moй Zettelkasten.md",
     "Base/00 Zettelkasten.md",
-    "Base/00 UX.md"
+    "Base/Полая инструкция для самообразования.md",
+    "Base/00 Self-education.md",
+    "Daily/2021-10-26 куч.md",
+    "Base/00 Productivity.md"
   ]
 }
