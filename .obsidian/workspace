@@ -7,10 +7,9 @@
         "id": "04a6f2c3697b4134",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Base/Git.md",
-            "mode": "source"
+            "file": "Files/Pasted image 20211025014025.png"
           }
         }
       }
@@ -39,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Git",
+                "query": "tag: math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Git.md",
+                "file": "Files/Pasted image 20211025014025.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Git.md"
+                "file": "Files/Pasted image 20211025014025.png"
               }
             }
           }
@@ -117,15 +116,15 @@
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
-    "Base/Git.md",
-    "Base/00 Zettelkasten.md",
-    "Base/Полая инструкция для самообразования.md",
-    "Base/00 UX.md",
-    "Base/00 Self-education.md",
-    "Base/00 Productivity.md",
+    "Files/Pasted image 20211025014025.png",
+    "Base/Замены в выражениях.md",
     "Base/00 JavaScript.md",
+    "Base/00 Math.md",
     "Base/Moй Zettelkasten.md",
-    "Templates/0 New Note.md",
-    "Files/Pasted image 20211025014025.png"
+    "Base/Git.md",
+    "Base/Полая инструкция для самообразования.md",
+    "Base/Untitled.md",
+    "Base/00 Zettelkasten.md",
+    "Templates/0 New Note.md"
   ]
 }
