@@ -7,9 +7,10 @@
         "id": "04a6f2c3697b4134",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/Pasted image 20211025014025.png"
+            "file": "Base/Замены в выражениях.md",
+            "mode": "source"
           }
         }
       }
@@ -75,13 +76,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Pasted image 20211025014025.png",
+                "file": "Base/Замены в выражениях.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20211025014025.png"
+                "file": "Base/Замены в выражениях.md"
               }
             }
           }
@@ -111,20 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424,
-    "collapsed": true
+    "width": 424
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
-    "Files/Pasted image 20211025014025.png",
     "Base/Замены в выражениях.md",
-    "Base/00 JavaScript.md",
     "Base/00 Math.md",
+    "Base/FlexBox.md",
     "Base/Moй Zettelkasten.md",
+    "Base/00 CSS.md",
+    "Base/00 Zettelkasten.md",
+    "Base/00 UX.md",
     "Base/Git.md",
     "Base/Полая инструкция для самообразования.md",
-    "Base/Untitled.md",
-    "Base/00 Zettelkasten.md",
-    "Templates/0 New Note.md"
+    "Base/00 JavaScript.md"
   ]
 }
