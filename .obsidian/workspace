@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Замены в выражениях.md",
-            "mode": "source"
+            "file": "Base/FlexBox.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Замены в выражениях.md",
+                "file": "Base/FlexBox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Замены в выражениях.md"
+                "file": "Base/FlexBox.md"
               }
             }
           }
@@ -116,9 +116,9 @@
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
+    "Base/FlexBox.md",
     "Base/Замены в выражениях.md",
     "Base/00 Math.md",
-    "Base/FlexBox.md",
     "Base/Moй Zettelkasten.md",
     "Base/00 CSS.md",
     "Base/00 Zettelkasten.md",

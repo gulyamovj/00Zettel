@@ -29,3 +29,4 @@ flexbox – это целый модуль а не свойство. Оно вк
 - https://habr.com/ru/post/467049/
 - https://developer.mozilla.org/ru/docs/Learn/CSS/CSS_layout/Flexbox
 - https://medium.com/@stasonmars/вёрстка-на-flexbox-в-css-полный-справочник-e26662cf87e0
+- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
