@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 324
   },
   "right": {
     "id": "6aafc1875aea55e3",
@@ -117,12 +117,12 @@
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
     "Base/Git.md",
+    "Base/Полая инструкция для самообразования.md",
+    "Base/Moй Zettelkasten.md",
     "Base/5 - Разряды для начинающих.md",
     "Base/4 - Замены в выражениях.md",
     "Base/00 Math.md",
     "Base/00 JavaScript.md",
-    "Base/Moй Zettelkasten.md",
-    "Base/Полая инструкция для самообразования.md",
     "Base/00 Zettelkasten.md",
     "Base/00 Web-Elements.md",
     "Base/00 Self-education.md"
