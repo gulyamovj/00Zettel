@@ -7,9 +7,10 @@
         "id": "04a6f2c3697b4134",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/Pasted image 20211025014025.png"
+            "file": "Base/Git.md",
+            "mode": "preview"
           }
         }
       }
@@ -75,14 +76,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Pasted image 20211025014025.png",
+                "file": "Base/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20211025014025.png"
+                "file": "Base/Git.md"
               }
             }
           }
@@ -111,20 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424,
-    "collapsed": true
+    "width": 275
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
-    "Files/Pasted image 20211025014025.png",
-    "Base/Замены в выражениях.md",
-    "Base/00 JavaScript.md",
-    "Base/00 Math.md",
-    "Base/Moй Zettelkasten.md",
     "Base/Git.md",
+    "Base/5 - Разряды для начинающих.md",
+    "Base/4 - Замены в выражениях.md",
+    "Base/00 Math.md",
+    "Base/00 JavaScript.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
-    "Base/Untitled.md",
     "Base/00 Zettelkasten.md",
-    "Templates/0 New Note.md"
+    "Base/00 Web-Elements.md",
+    "Base/00 Self-education.md"
   ]
 }

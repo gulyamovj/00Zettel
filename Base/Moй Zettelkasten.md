@@ -42,7 +42,6 @@ Tags: #z #1quest
 - #work — Работы
 
 ### Zero-Links
-- [[00 Productivity]]
 - [[00 Zettelkasten]]
 
 ### Links
