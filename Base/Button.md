@@ -14,6 +14,10 @@ State - Default Hover Active Disabled
 Первый пример
 ![[Pasted image 20220124114814.png]]
 
+
+## Button group
+![[Pasted image 20220124161828.png]]
+
 —
 ### Zero-Links
 - [[00 UI]]
