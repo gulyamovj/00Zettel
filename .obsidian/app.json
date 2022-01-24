@@ -6,5 +6,7 @@
   "useMarkdownLinks": false,
   "showUnsupportedFiles": false,
   "promptDelete": false,
-  "attachmentFolderPath": "Files"
+  "attachmentFolderPath": "Files",
+  "legacyEditor": false,
+  "livePreview": true
 }

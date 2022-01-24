@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/FlexBox.md",
-            "mode": "source"
+            "file": "Base/Git.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/FlexBox.md",
+                "file": "Base/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/FlexBox.md"
+                "file": "Base/Git.md"
               }
             }
           }
@@ -112,18 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
+    "Base/Git.md",
+    "Base/Button.md",
+    "Base/00 UI.md",
+    "Base/Moй Zettelkasten.md",
     "Base/FlexBox.md",
     "Base/Полая инструкция для самообразования.md",
-    "Base/Git.md",
-    "Base/Moй Zettelkasten.md",
-    "Base/5 - Разряды для начинающих.md",
     "Base/4 - Замены в выражениях.md",
-    "Base/00 Math.md",
-    "Base/00 JavaScript.md",
+    "Base/00 UX.md",
     "Base/00 Zettelkasten.md",
     "Base/00 Web-Elements.md"
   ]
