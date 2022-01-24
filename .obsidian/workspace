@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324
+    "width": 192
   },
   "right": {
     "id": "6aafc1875aea55e3",
@@ -113,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235
+    "width": 235,
+    "collapsed": true
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
     "Base/Button.md",
-    "Base/Полая инструкция для самообразования.md",
-    "Base/Git.md",
-    "Base/FlexBox.md",
-    "Templates/0 New Note.md",
     "Base/Moй Zettelkasten.md",
+    "Base/00 UX.md",
+    "Base/00 Web-Elements.md",
+    "Base/00 UI.md",
     "Base/4 - Замены в выражениях.md",
     "Base/5 - Разряды для начинающих.md",
-    "Base/00 CSS.md",
-    "Base/00 JavaScript.md"
+    "Base/00 Math.md",
+    "Base/Полая инструкция для самообразования.md",
+    "Base/Git.md"
   ]
 }
