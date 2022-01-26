@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Devider.md",
+            "file": "Base/Moй Zettelkasten.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Devider.md",
+                "file": "Base/Moй Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Devider.md"
+                "file": "Base/Moй Zettelkasten.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "04a6f2c3697b4134",
   "lastOpenFiles": [
+    "Base/Moй Zettelkasten.md",
+    "Base/Date Picker.md",
+    "Base/Carousel.md",
+    "Base/00 Math.md",
     "Base/Devider.md",
     "Base/Rating.md",
-    "Base/Carousel.md",
     "Base/Table.md",
     "Base/Tooltip.md",
     "Base/Chips.md",
-    "Base/Counter.md",
-    "Base/Status.md",
-    "Base/Badge.md",
-    "Base/Progress.md"
+    "Base/Counter.md"
   ]
 }
