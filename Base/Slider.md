@@ -4,8 +4,10 @@ Tags: #ui #slider
 —
 # Slider
 
-![[Pasted image 20220124163534.png]]
+### Ползунок — предназначен для ввода чисел в указанном диапазоне.
 
+![[Pasted image 20220124163534.png]]
+![[Pasted image 20220127162353.png]]
 
 —
 ### Zero-Links

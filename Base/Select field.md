@@ -3,8 +3,10 @@ Tags: #ui #selectfield
 
 —
 # Select field
-![[Pasted image 20220124162929.png]]
+### Select — позволяет пользователю выбрать одну опцию из выпадающего списка.
 
+![[Pasted image 20220124162929.png]]
+![[Pasted image 20220127162042.png]]
 
 —
 ### Zero-Links

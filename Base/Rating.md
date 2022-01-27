@@ -3,6 +3,7 @@ Tags: #ui #rating
 
 —
 # Rating
+### Рейтинг (Rating bar) — элемент интерфейса показывающий среднюю оценку.
 
 ![[Pasted image 20220124175609.png]]
 
