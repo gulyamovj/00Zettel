@@ -34,7 +34,7 @@ green - освоил
 - #1quest — Вопросы, требующие решения 
 - #2done — Завершенные проекты
 
-## Теги типа (Type Tags)
+## Типы тегов (Type Tags)
 - #z — Zettelkasten (перманентные) карточки. Заметки с моими мыслями.
 - #lesson — Уроки
 - #qt - Quick Tips
@@ -49,4 +49,3 @@ green - освоил
 - [[00 Zettelkasten]]
 
 ### Links
-[[Урок по Zettelkasten в Obsidian]]

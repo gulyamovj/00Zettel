@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "04a6f2c3697b4134",
+        "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Files/Pasted image 20220124164338.png"
+            "file": "Base/Status.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -38,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "un",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Pasted image 20220124164338.png",
+                "file": "Base/Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20220124164338.png"
+                "file": "Base/Status.md"
               }
             }
           }
@@ -111,20 +113,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
-  "active": "04a6f2c3697b4134",
+  "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Files/Pasted image 20220124164338.png",
-    "Files/Pasted image 20220124163938.png",
-    "Files/Pasted image 20220124163432.png",
-    "Files/Pasted image 20220124163237.png",
-    "Base/Breadcrumbs.md",
-    "Base/Badge.md",
-    "Base/Alert.md",
+    "Base/Status.md",
     "Base/Accordeon.md",
-    "Base/Rating.md",
-    "Base/Tabs.md"
+    "Base/00 UI.md",
+    "Base/4 - Замены в выражениях.md",
+    "Base/00 Math.md",
+    "Base/Moй Zettelkasten.md",
+    "Base/00 Zettelkasten.md",
+    "Base/Урок по Zettelkasten в Obsidian.md",
+    "Base/00 UX.md",
+    "Base/00 Self-education.md"
   ]
 }
