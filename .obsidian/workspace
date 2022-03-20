@@ -7,12 +7,8 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/Status.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,13 +73,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Status.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -104,28 +99,27 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/Status.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/Status.md",
-    "Base/Accordeon.md",
+    "Base/00 Productivity.md",
+    "Base/00 Self-education.md",
     "Base/00 UI.md",
-    "Base/4 - Замены в выражениях.md",
-    "Base/00 Math.md",
-    "Base/Moй Zettelkasten.md",
-    "Base/00 Zettelkasten.md",
-    "Base/Урок по Zettelkasten в Obsidian.md",
     "Base/00 UX.md",
-    "Base/00 Self-education.md"
+    "Base/FlexBox.md",
+    "Base/Useful.md",
+    "Base/00 CSS.md",
+    "Base/00 Graphic design.md",
+    "Base/00 Math.md",
+    "Base/4 - Замены в выражениях.md"
   ]
 }
