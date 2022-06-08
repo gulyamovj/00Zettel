@@ -11,6 +11,6 @@
   "livePreview": true,
   "spellcheck": true,
   "showLineNumber": false,
-  "foldHeading": true,
+  "foldHeading": false,
   "readableLineLength": false
 }

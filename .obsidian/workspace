@@ -7,8 +7,12 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Правильное чтение.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Правильное чтение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Правильное чтение.md"
+              }
             }
           }
         ]
@@ -111,15 +118,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Правильное чтение.md",
+    "Base/00 Zettelkasten.md",
+    "Base/Полая инструкция для самообразования.md",
+    "Base/Git.md",
+    "Base/Illustrator hotkeys.md",
     "Base/00 Productivity.md",
     "Base/00 Self-education.md",
     "Base/00 UI.md",
     "Base/00 UX.md",
-    "Base/FlexBox.md",
-    "Base/Useful.md",
-    "Base/00 CSS.md",
-    "Base/00 Graphic design.md",
-    "Base/00 Math.md",
-    "Base/4 - Замены в выражениях.md"
+    "Base/FlexBox.md"
   ]
 }
