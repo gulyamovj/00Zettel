@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Правильное чтение.md",
+            "file": "Base/Ментальные модели.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Правильное чтение.md",
+                "file": "Base/Ментальные модели.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Правильное чтение.md"
+                "file": "Base/Ментальные модели.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Ментальные модели.md",
     "Base/Правильное чтение.md",
     "Base/00 Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
@@ -126,7 +127,6 @@
     "Base/00 Productivity.md",
     "Base/00 Self-education.md",
     "Base/00 UI.md",
-    "Base/00 UX.md",
-    "Base/FlexBox.md"
+    "Base/00 UX.md"
   ]
 }
