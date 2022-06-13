@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Moй Zettelkasten.md",
-            "mode": "source",
+            "file": "Base/Тест.md",
+            "mode": "preview",
             "backlinks": true,
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Moй Zettelkasten.md",
+                "file": "Base/Тест.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Moй Zettelkasten.md"
+                "file": "Base/Тест.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/Moй Zettelkasten.md",
+    "Base/Тест.md",
     "Base/Правильное чтение.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
     "Base/Useful.md",
     "Base/Illustrator hotkeys.md",
     "Base/Git.md",
     "Base/00 Zettelkasten.md",
     "Base/00 Self-education.md",
-    "Base/00 Design.md",
-    "Base/Ментальные модели.md"
+    "Base/00 Design.md"
   ]
 }
