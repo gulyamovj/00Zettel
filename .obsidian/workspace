@@ -7,8 +7,13 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Moй Zettelkasten.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -23,20 +28,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d5b455e1d9a2df8",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "4afac8e9022b4be0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "un",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +49,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e0508faa16246588",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Moй Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Moй Zettelkasten.md"
+              }
             }
           }
         ]
@@ -111,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/Ментальные модели.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Правильное чтение.md",
-    "Base/00 Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
-    "Base/Git.md",
+    "Base/Useful.md",
     "Base/Illustrator hotkeys.md",
-    "Base/00 Productivity.md",
+    "Base/Git.md",
+    "Base/00 Zettelkasten.md",
     "Base/00 Self-education.md",
-    "Base/00 UI.md",
-    "Base/00 UX.md"
+    "Base/00 Design.md",
+    "Base/Ментальные модели.md"
   ]
 }
