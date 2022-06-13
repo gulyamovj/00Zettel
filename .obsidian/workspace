@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Design.md",
+            "file": "Base/ТЕСТ-222.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Design.md",
+                "file": "Base/ТЕСТ-222.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Design.md"
+                "file": "Base/ТЕСТ-222.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/ТЕСТ-222.md",
     "Base/00 Design.md",
     "Base/Git.md",
     "Base/Moй Zettelkasten.md",
@@ -128,7 +129,6 @@
     "Templates/0 New Note.md",
     "Base/Untitled.md",
     "Base/00 Color theory.md",
-    "Base/00 UI.md",
-    "Base/00 UX.md"
+    "Base/00 UI.md"
   ]
 }
