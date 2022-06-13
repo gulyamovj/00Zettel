@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Base/Тест.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": false
           }
@@ -122,8 +122,8 @@
   "lastOpenFiles": [
     "Base/Тест.md",
     "Base/Правильное чтение.md",
-    "Base/Moй Zettelkasten.md",
     "Base/Полая инструкция для самообразования.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Useful.md",
     "Base/Illustrator hotkeys.md",
     "Base/Git.md",

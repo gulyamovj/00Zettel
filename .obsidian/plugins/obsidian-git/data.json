@@ -2,11 +2,11 @@
   "commitMessage": "OfficePC: {{date}}",
   "autoCommitMessage": "OfficePC: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
-  "disablePush": false,
+  "disablePush": true,
   "pullBeforePush": true,
   "disablePopups": false,
   "listChangedFilesInMessageBody": false,
@@ -18,7 +18,7 @@
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
+  "basePath": "https://github.com/gulyamovj/00Zettel.git",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false
 }
