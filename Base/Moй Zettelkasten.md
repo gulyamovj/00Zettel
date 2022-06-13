@@ -46,6 +46,6 @@ green - освоил
 - #work — Работы
 
 ### Zero-Links
-- [[00 Zettelkasten]]
+
 
 ### Links

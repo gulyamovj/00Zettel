@@ -7,8 +7,13 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/00 Design.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/00 Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/00 Design.md"
+              }
             }
           }
         ]
@@ -112,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Files/Pasted image 20220127113530.png",
-    "Base/Полая инструкция для самообразования.md",
-    "Base/Useful.md",
-    "Base/Правильное чтение.md",
+    "Base/00 Design.md",
     "Base/Git.md",
-    "Base/FlexBox.md",
-    "Base/00 Zettelkasten.md",
-    "Base/ТЕСТ.md",
+    "Base/Moй Zettelkasten.md",
+    "Base/Test-1.md",
+    "Base/Useful.md",
+    "Templates/0 New Note.md",
+    "Base/Untitled.md",
     "Base/00 Color theory.md",
-    "Base/Moй Zettelkasten.md"
+    "Base/00 UI.md",
+    "Base/00 UX.md"
   ]
 }
