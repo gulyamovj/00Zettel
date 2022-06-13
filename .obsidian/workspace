@@ -7,8 +7,13 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Git.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Git.md"
+              }
             }
           }
         ]
@@ -112,13 +120,13 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Git.md",
     "Base/Тест.md",
     "Base/Правильное чтение.md",
     "Base/Полая инструкция для самообразования.md",
     "Base/Moй Zettelkasten.md",
     "Base/Useful.md",
     "Base/Illustrator hotkeys.md",
-    "Base/Git.md",
     "Base/00 Zettelkasten.md",
     "Base/00 Self-education.md",
     "Base/00 Design.md"
