@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Useful.md",
-            "mode": "preview",
+            "file": "Base/Как придумывать.md",
+            "mode": "source",
             "backlinks": false,
             "source": true
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Useful.md",
+                "file": "Base/Как придумывать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Useful.md"
+                "file": "Base/Как придумывать.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Как придумывать.md",
+    "Base/00 Design.md",
     "Base/Useful.md",
     "Base/Moй Zettelkasten.md",
     "Base/Git.md",
-    "Base/00 Design.md",
     "Templates/0 New Note.md",
     "Base/ТЕСТ-222.md",
     "Base/Test-1.md",
     "Base/Untitled.md",
-    "Base/00 Color theory.md",
-    "Base/00 UI.md"
+    "Base/00 Color theory.md"
   ]
 }
