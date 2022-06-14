@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/0 New Note.md",
-            "mode": "source",
+            "file": "Base/Useful.md",
+            "mode": "preview",
             "backlinks": false,
             "source": true
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/0 New Note.md",
+                "file": "Base/Useful.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/0 New Note.md"
+                "file": "Base/Useful.md"
               }
             }
           }
@@ -120,12 +120,12 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Templates/0 New Note.md",
-    "Base/Moй Zettelkasten.md",
     "Base/Useful.md",
-    "Base/ТЕСТ-222.md",
-    "Base/00 Design.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Git.md",
+    "Base/00 Design.md",
+    "Templates/0 New Note.md",
+    "Base/ТЕСТ-222.md",
     "Base/Test-1.md",
     "Base/Untitled.md",
     "Base/00 Color theory.md",
