@@ -16,7 +16,15 @@
       "key": "C"
     }
   ],
-  "obsidian-git:pull": [],
+  "obsidian-git:pull": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
   "obsidian-git:push2": [
     {
       "modifiers": [
