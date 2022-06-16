@@ -7,8 +7,13 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/00 Design.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/00 Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/00 Design.md"
+              }
             }
           }
         ]
@@ -112,9 +120,9 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/00 Design.md",
     "Files/Pasted image 20220614234444.png",
     "Files/Pasted image 20220614234508.png",
-    "Base/00 Design.md",
     "Base/Moй Zettelkasten.md",
     "Base/Как придумывать.md",
     "Base/Useful.md",
