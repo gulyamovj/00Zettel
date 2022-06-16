@@ -7,13 +7,8 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base/00 Design.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Base/00 Design.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,6 +112,8 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Files/Pasted image 20220614234444.png",
+    "Files/Pasted image 20220614234508.png",
     "Base/00 Design.md",
     "Base/Moй Zettelkasten.md",
     "Base/Как придумывать.md",
@@ -127,8 +121,6 @@
     "Base/Git.md",
     "Templates/0 New Note.md",
     "Base/ТЕСТ-222.md",
-    "Base/Test-1.md",
-    "Base/Untitled.md",
-    "Base/00 Color theory.md"
+    "Base/Test-1.md"
   ]
 }
