@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Как придумывать.md",
+            "file": "Base/00 Design.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Как придумывать.md",
+                "file": "Base/00 Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Как придумывать.md"
+                "file": "Base/00 Design.md"
               }
             }
           }
@@ -120,11 +120,11 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/00 Design.md",
+    "Base/Moй Zettelkasten.md",
     "Base/Как придумывать.md",
     "Base/Useful.md",
-    "Base/Moй Zettelkasten.md",
     "Base/Git.md",
-    "Base/00 Design.md",
     "Templates/0 New Note.md",
     "Base/ТЕСТ-222.md",
     "Base/Test-1.md",
