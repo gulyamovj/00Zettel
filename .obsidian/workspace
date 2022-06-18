@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/План.md",
+            "file": "Base/Целые числа.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/План.md",
+                "file": "Base/Целые числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/План.md"
+                "file": "Base/Целые числа.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Целые числа.md",
+    "Base/Натуральные числа.md",
+    "Base/00 Math.md",
+    "Base/00 Design.md",
+    "Base/00 Git.md",
     "Base/План.md",
     "Base/Создание файла.md",
     "Base/Как придумывать.md",
     "Base/Moй Zettelkasten.md",
-    "Base/00 Git.md",
-    "Base/00 Life.md",
-    "Base/Useful.md",
-    "Base/Главные комманды.md",
-    "Base/00 Design.md",
-    "Files/Pasted image 20220614234444.png"
+    "Base/00 Life.md"
   ]
 }
