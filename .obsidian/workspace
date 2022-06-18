@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Целые числа.md",
+            "file": "Base/Рациональные числа.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,14 +79,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Целые числа.md",
+                "file": "Base/Рациональные числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Целые числа.md"
+                "file": "Base/Рациональные числа.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Рациональные числа.md",
     "Base/Целые числа.md",
-    "Base/Натуральные числа.md",
     "Base/00 Math.md",
+    "Base/Натуральные числа.md",
+    "Base/Создание файла.md",
     "Base/00 Design.md",
     "Base/00 Git.md",
     "Base/План.md",
-    "Base/Создание файла.md",
     "Base/Как придумывать.md",
-    "Base/Moй Zettelkasten.md",
-    "Base/00 Life.md"
+    "Base/Moй Zettelkasten.md"
   ]
 }
