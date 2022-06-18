@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Создание файла.md",
+            "file": "Base/План.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,14 +79,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Создание файла.md",
+                "file": "Base/План.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Создание файла.md"
+                "file": "Base/План.md"
               }
             }
           }
@@ -115,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/План.md",
     "Base/Создание файла.md",
-    "Base/Главные комманды.md",
-    "Base/00 Git.md",
     "Base/Как придумывать.md",
-    "Base/00 Design.md",
-    "Files/Pasted image 20220614234444.png",
-    "Files/Pasted image 20220614234508.png",
     "Base/Moй Zettelkasten.md",
+    "Base/00 Git.md",
+    "Base/00 Life.md",
     "Base/Useful.md",
-    "Templates/0 New Note.md"
+    "Base/Главные комманды.md",
+    "Base/00 Design.md",
+    "Files/Pasted image 20220614234444.png"
   ]
 }
