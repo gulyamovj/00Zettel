@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Design.md",
+            "file": "Base/Создание файла.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 262,
+    "collapsed": true
   },
   "right": {
     "id": "6aafc1875aea55e3",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Design.md",
+                "file": "Base/Создание файла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Design.md"
+                "file": "Base/Создание файла.md"
               }
             }
           }
@@ -120,15 +121,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Создание файла.md",
+    "Base/Главные комманды.md",
+    "Base/00 Git.md",
+    "Base/Как придумывать.md",
     "Base/00 Design.md",
     "Files/Pasted image 20220614234444.png",
     "Files/Pasted image 20220614234508.png",
     "Base/Moй Zettelkasten.md",
-    "Base/Как придумывать.md",
     "Base/Useful.md",
-    "Base/Git.md",
-    "Templates/0 New Note.md",
-    "Base/ТЕСТ-222.md",
-    "Base/Test-1.md"
+    "Templates/0 New Note.md"
   ]
 }
