@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/№3 Модуль числа.md",
-            "mode": "preview",
+            "file": "Base/План.md",
+            "mode": "source",
             "backlinks": false,
-            "source": false
+            "source": true
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/№3 Модуль числа.md",
+                "file": "Base/План.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/№3 Модуль числа.md"
+                "file": "Base/План.md"
               }
             }
           }
@@ -115,19 +115,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/План.md",
+    "Base/Рациональные числа.md",
+    "Base/Натуральные числа.md",
+    "Base/Как придумывать.md",
+    "Base/Главные комманды.md",
     "Base/№3 Модуль числа.md",
     "Base/№1 Натуральные и целые числа.md",
-    "Base/00 Life.md",
-    "Base/Рациональные числа.md",
-    "Base/00 Design.md",
-    "Base/Натуральные числа.md",
-    "Base/Создание файла.md",
     "Base/Moй Zettelkasten.md",
-    "Base/№2 Положительные числа.md",
-    "Base/00 Math.md"
+    "Base/№4 Целые числа.md",
+    "Base/№2 Положительные числа.md"
   ]
 }

@@ -8,7 +8,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "Files",
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "spellcheck": true,
   "showLineNumber": false,
   "foldHeading": false,
