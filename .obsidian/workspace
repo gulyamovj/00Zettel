@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Рациональные числа.md",
-            "mode": "source",
+            "file": "Base/№3 Модуль числа.md",
+            "mode": "preview",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Рациональные числа.md",
+                "file": "Base/№3 Модуль числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Рациональные числа.md"
+                "file": "Base/№3 Модуль числа.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/№3 Модуль числа.md",
+    "Base/№1 Натуральные и целые числа.md",
+    "Base/00 Life.md",
     "Base/Рациональные числа.md",
-    "Base/Целые числа.md",
-    "Base/00 Math.md",
+    "Base/00 Design.md",
     "Base/Натуральные числа.md",
     "Base/Создание файла.md",
-    "Base/00 Design.md",
-    "Base/00 Git.md",
-    "Base/План.md",
-    "Base/Как придумывать.md",
-    "Base/Moй Zettelkasten.md"
+    "Base/Moй Zettelkasten.md",
+    "Base/№2 Положительные числа.md",
+    "Base/00 Math.md"
   ]
 }

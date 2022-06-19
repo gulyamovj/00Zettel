@@ -8,9 +8,10 @@
   "promptDelete": false,
   "attachmentFolderPath": "Files",
   "legacyEditor": false,
-  "livePreview": false,
+  "livePreview": true,
   "spellcheck": true,
   "showLineNumber": false,
   "foldHeading": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "source"
 }
