@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/План.md",
+            "file": "Base/Рациональные числа.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/План.md",
+                "file": "Base/Рациональные числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/План.md"
+                "file": "Base/Рациональные числа.md"
               }
             }
           }
@@ -120,8 +120,8 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/План.md",
     "Base/Рациональные числа.md",
+    "Base/План.md",
     "Base/Натуральные числа.md",
     "Base/Как придумывать.md",
     "Base/Главные комманды.md",
