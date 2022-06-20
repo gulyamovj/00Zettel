@@ -12,5 +12,6 @@
   "spellcheck": true,
   "showLineNumber": false,
   "foldHeading": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "source"
 }

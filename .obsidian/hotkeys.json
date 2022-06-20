@@ -1,12 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Numpad0"
-    }
-  ],
   "obsidian-git:commit": [
     {
       "modifiers": [
@@ -32,6 +24,15 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
     }
   ]
 }

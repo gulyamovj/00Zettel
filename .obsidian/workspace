@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Создание файла.md",
+            "file": "Base/№1 Натуральные и целые числа.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,13 +79,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Создание файла.md",
+                "file": "Base/№1 Натуральные и целые числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Создание файла.md"
+                "file": "Base/№1 Натуральные и целые числа.md"
               }
             }
           }
@@ -115,20 +115,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/Создание файла.md",
-    "Base/Главные комманды.md",
-    "Base/00 Git.md",
+    "Base/№1 Натуральные и целые числа.md",
+    "Base/Натуральные числа.md",
+    "Base/№0 - Рациональные числа.md",
+    "Base/План.md",
     "Base/Как придумывать.md",
-    "Base/00 Design.md",
-    "Files/Pasted image 20220614234444.png",
-    "Files/Pasted image 20220614234508.png",
+    "Base/Главные комманды.md",
+    "Base/№3 Модуль числа.md",
     "Base/Moй Zettelkasten.md",
-    "Base/Useful.md",
-    "Templates/0 New Note.md"
+    "Base/№4 Целые числа.md",
+    "Base/№2 Положительные числа.md"
   ]
 }
