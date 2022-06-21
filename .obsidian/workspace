@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/0 New Note.md",
+            "file": "Base/asdlasd4.md",
             "mode": "source",
             "backlinks": false,
             "source": true
@@ -79,13 +79,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/0 New Note.md",
+                "file": "Base/asdlasd4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/0 New Note.md"
+                "file": "Base/asdlasd4.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/asdlasd4.md",
+    "Files/Pasted image 20220621123248.png",
+    "Base/Психология пользователя.md",
+    "Base/00 Design.md",
     "Templates/0 New Note.md",
     "Base/00 Life.md",
     "Base/Целые числа.md",
     "Base/Создание файла.md",
     "Base/Рациональные числа.md",
-    "Base/Психология пользователя.md",
-    "Base/План.md",
-    "Base/Натуральные числа.md",
-    "Base/Как придумывать.md",
-    "Base/Как пользователь обрабатывает иформацию.md"
+    "Base/План.md"
   ]
 }
