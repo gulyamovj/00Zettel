@@ -7,8 +7,13 @@
         "id": "4ecbb57af48092ef",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Base/Как придумывать.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Base/Как придумывать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,26 +106,29 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Base/Как придумывать.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/asdlasd4.md",
-    "Files/Pasted image 20220621123248.png",
-    "Base/Психология пользователя.md",
-    "Base/00 Design.md",
-    "Templates/0 New Note.md",
-    "Base/00 Life.md",
-    "Base/Целые числа.md",
-    "Base/Создание файла.md",
+    "Base/Как придумывать.md",
+    "Base/Как пользователь обрабатывает иформацию.md",
+    "Base/Натуральные числа.md",
+    "Base/План.md",
     "Base/Рациональные числа.md",
-    "Base/План.md"
+    "Base/Создание файла.md",
+    "Base/Целые числа.md",
+    "Files/Pasted image 20220621123248.png",
+    "Files/Pasted image 20220619180405.png",
+    "Files/Pasted image 20220619172140.png"
   ]
 }
