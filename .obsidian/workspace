@@ -15,6 +15,19 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "7e79cef4d5343836",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -79,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/№6 Сложение чисел с помощью числовой оси.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/№6 Сложение чисел с помощью числовой оси.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -118,8 +131,9 @@
     "width": 319,
     "collapsed": true
   },
-  "active": "4ecbb57af48092ef",
+  "active": "7e79cef4d5343836",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Base/№6 Сложение чисел с помощью числовой оси.md",
     "Base/№5 Сложение.md",
     "Base/№1 Натуральные и целые числа.md",
@@ -128,7 +142,6 @@
     "Base/№4 Целые числа.md",
     "Base/Натуральные числа.md",
     "Base/Рациональные числа.md",
-    "Base/План.md",
-    "Base/Как придумывать.md"
+    "Base/План.md"
   ]
 }
