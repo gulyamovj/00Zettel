@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7e79cef4d5343836",
+        "id": "a8c3f72ed0cfe761",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Как пользователь обрабатывает иформацию.md",
-            "mode": "preview",
+            "file": "Base/Паттерны сканирования.md",
+            "mode": "source",
             "backlinks": false,
             "source": false
           }
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Как пользователь обрабатывает иформацию.md",
+                "file": "Base/Паттерны сканирования.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Как пользователь обрабатывает иформацию.md"
+                "file": "Base/Паттерны сканирования.md"
               }
             }
           }
@@ -117,17 +118,17 @@
     "width": 319,
     "collapsed": true
   },
-  "active": "7e79cef4d5343836",
+  "active": "a8c3f72ed0cfe761",
   "lastOpenFiles": [
-    "Base/Как пользователь обрабатывает иформацию.md",
-    "Base/Serif - Антиква.md",
-    "Base/Sans serif - Гротеск, рубленный шрифт.md",
-    "Base/№1 Характер шрифта.md",
-    "Base/00 Typo.md",
-    "Base/00 Git.md",
+    "Base/Паттерны сканирования.md",
+    "Base/00 UPROCK.md",
     "Base/Психология пользователя.md",
-    "Base/План.md",
-    "Base/Как придумывать.md",
-    "Base/Главные комманды.md"
+    "Base/Как пользователь обрабатывает иформацию.md",
+    "Base/Moй Zettelkasten.md",
+    "Base/№1 Характер шрифта.md",
+    "Base/Управление вниманием пользователя.md",
+    "Base/Useful.md",
+    "Base/Главные комманды.md",
+    "Base/Как придумывать.md"
   ]
 }
