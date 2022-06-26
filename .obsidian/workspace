@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Useful.md",
-            "mode": "source",
+            "file": "Base/Как пользователь обрабатывает иформацию.md",
+            "mode": "preview",
             "backlinks": false,
-            "source": true
+            "source": false
           }
         }
       }
@@ -58,8 +58,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Useful.md",
+                "file": "Base/Как пользователь обрабатывает иформацию.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Useful.md"
+                "file": "Base/Как пользователь обрабатывает иформацию.md"
               }
             }
           }
@@ -120,13 +119,13 @@
   },
   "active": "7e79cef4d5343836",
   "lastOpenFiles": [
-    "Base/Useful.md",
-    "Base/Slab serif - Брусковый шрифт.md",
-    "Base/Serif - Антиква.md",
-    "Base/№1 Характер шрифта.md",
     "Base/Как пользователь обрабатывает иформацию.md",
-    "Base/Психология пользователя.md",
+    "Base/Serif - Антиква.md",
+    "Base/Sans serif - Гротеск, рубленный шрифт.md",
+    "Base/№1 Характер шрифта.md",
     "Base/00 Typo.md",
+    "Base/00 Git.md",
+    "Base/Психология пользователя.md",
     "Base/План.md",
     "Base/Как придумывать.md",
     "Base/Главные комманды.md"
