@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Эмоции.md",
+            "file": "Base/Создание файла.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 126
+    "width": 253
   },
   "right": {
     "id": "6aafc1875aea55e3",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Эмоции.md",
+                "file": "Base/Создание файла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Эмоции.md"
+                "file": "Base/Создание файла.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "9660ec5e9c2d6c1c",
   "lastOpenFiles": [
-    "Base/Эмоции.md",
-    "Base/00 UPROCK.md",
-    "Base/Паттерны сканирования.md",
+    "Base/Создание файла.md",
     "Base/Психология пользователя.md",
+    "Base/00 UPROCK.md",
+    "Base/00 Design.md",
     "Base/Как пользователь обрабатывает иформацию.md",
     "Base/Moй Zettelkasten.md",
+    "Base/Эмоции.md",
+    "Base/Паттерны сканирования.md",
     "Base/№1 Характер шрифта.md",
-    "Base/Управление вниманием пользователя.md",
-    "Base/Useful.md",
-    "Base/Главные комманды.md"
+    "Base/Управление вниманием пользователя.md"
   ]
 }
