@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c3f72ed0cfe761",
+        "id": "9660ec5e9c2d6c1c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Паттерны сканирования.md",
+            "file": "Base/Эмоции.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -63,7 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262
+    "width": 126
   },
   "right": {
     "id": "6aafc1875aea55e3",
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Паттерны сканирования.md",
+                "file": "Base/Эмоции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Паттерны сканирования.md"
+                "file": "Base/Эмоции.md"
               }
             }
           }
@@ -118,17 +118,17 @@
     "width": 319,
     "collapsed": true
   },
-  "active": "a8c3f72ed0cfe761",
+  "active": "9660ec5e9c2d6c1c",
   "lastOpenFiles": [
-    "Base/Паттерны сканирования.md",
+    "Base/Эмоции.md",
     "Base/00 UPROCK.md",
+    "Base/Паттерны сканирования.md",
     "Base/Психология пользователя.md",
     "Base/Как пользователь обрабатывает иформацию.md",
     "Base/Moй Zettelkasten.md",
     "Base/№1 Характер шрифта.md",
     "Base/Управление вниманием пользователя.md",
     "Base/Useful.md",
-    "Base/Главные комманды.md",
-    "Base/Как придумывать.md"
+    "Base/Главные комманды.md"
   ]
 }
