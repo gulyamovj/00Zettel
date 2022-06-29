@@ -12,6 +12,10 @@
   "spellcheck": true,
   "showLineNumber": false,
   "foldHeading": false,
-  "readableLineLength": false,
-  "defaultViewMode": "source"
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "spellcheckLanguages": [
+    "en-US",
+    "ru"
+  ]
 }
