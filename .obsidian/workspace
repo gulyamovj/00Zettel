@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/Генератор идей.md",
+            "file": "Base/00 Design.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -58,7 +58,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/Генератор идей.md",
+                "file": "Base/00 Design.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/Генератор идей.md"
+                "file": "Base/00 Design.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
-    "Base/Генератор идей.md",
     "Base/00 Design.md",
-    "Base/Как пользователь обрабатывает иформацию.md",
-    "Base/Психология пользователя.md",
-    "Base/00 UPROCK.md",
+    "Base/00 Git.md",
+    "Base/Useful.md",
+    "Base/Slab serif - Брусковый шрифт.md",
+    "Base/Untitled.md",
     "Base/Moй Zettelkasten.md",
     "Base/00 Typo.md",
     "Base/00 Life.md",
-    "Base/00 Git.md",
-    "Base/Натуральные числа.md"
+    "Base/00 UPROCK.md",
+    "Files/Pasted image 20220627004937.png"
   ]
 }
