@@ -9,10 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Base/00 Design.md",
+            "file": "Base/Эмоции.md",
             "mode": "source",
             "backlinks": false,
-            "source": false
+            "source": true
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base/00 Design.md",
+                "file": "Base/Эмоции.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Base/00 Design.md"
+                "file": "Base/Эмоции.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "4ecbb57af48092ef",
   "lastOpenFiles": [
+    "Base/Эмоции.md",
     "Base/00 Design.md",
-    "Base/00 Git.md",
     "Base/Useful.md",
-    "Base/Slab serif - Брусковый шрифт.md",
-    "Base/Untitled.md",
-    "Base/Moй Zettelkasten.md",
     "Base/00 Typo.md",
-    "Base/00 Life.md",
+    "Base/00 Productivity.md",
+    "Base/Психология пользователя.md",
     "Base/00 UPROCK.md",
-    "Files/Pasted image 20220627004937.png"
+    "Base/00 Git.md",
+    "Base/Slab serif - Брусковый шрифт.md",
+    "Base/Untitled.md"
   ]
 }
